@@ -1,4 +1,4 @@
-# Optimization for Machine Learning
+# Optimization for Machine Learning applied to the Boston Housing Dataset.
 Enseirb-Matmeca, Bordeaux INP | [Anas AHOUZI](https://www.linkedin.com/in/anas-ahouzi-6aab0b155/)
 ***
 
