@@ -9,17 +9,17 @@ This repository includes a detailed mathematical explanation of every algorithm,
 use gradient descent instead of LSE solution in the case of linear regression problems.
 
 - The algorithms that were implemented include the following:
-  - Vanilla Gradient Descent (aka Batch Gradient Descent).
-  - Stochastic Gradient Descent (SGD).
-  - Mini-Batch Gradient Descent (MBGD).
-  - Momentum with SGD.
-  - Nesterov Accelerated Gradient (NAG).
-  - Adagrad (Adaptive gradient).
-  - Adadelta.
-  - RMSprop.
-  - Adam (Adaptive moment estimation).
-  - Adamax.
-  - Nadam (Nesterov-accelerated Adaptive moment estimation).
+  - **Vanilla Gradient Descent (aka Batch Gradient Descent).**
+  - **Stochastic Gradient Descent (SGD).**
+  - **Mini-Batch Gradient Descent (MBGD).**
+  - **Momentum with SGD.**
+  - **Nesterov Accelerated Gradient (NAG).**
+  - **Adagrad (Adaptive gradient).**
+  - **Adadelta.**
+  - **RMSprop.**
+  - **Adam (Adaptive moment estimation).**
+  - **Adamax.**
+  - **Nadam (Nesterov-accelerated Adaptive moment estimation).**
 
  
 ## :rocket: Repository Structure
