@@ -1,9 +1,7 @@
 # Optimization for Machine Learning applied to the Boston Housing Dataset.
-Enseirb-Matmeca, Bordeaux INP | [Anas AHOUZI](https://www.linkedin.com/in/anas-ahouzi-6aab0b155/)
-***
 
 ## :monocle_face: Description
-- This project contains an implementation of 11 variants of Gradient Descent algorithms from scratch. It's applied to [The Boston Housing Dataset](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html), and
+- This project contains an implementation of 11 variants of Gradient Descent algorithm from scratch. It's applied to [The Boston Housing Dataset](https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html), and
 it follows the guidelines and explanations given in the paper of Sebastian Ruder (2017) [An overview of gradient descent optimization algorithms](https://arxiv.org/pdf/1609.04747.pdf).
 This repository includes a detailed mathematical explanation of every algorithm, and also some of the reasons to 
 use gradient descent instead of LSE solution in the case of linear regression problems.
@@ -24,7 +22,7 @@ use gradient descent instead of LSE solution in the case of linear regression pr
  
 ## :rocket: Repository Structure
 The repository contains the following files & directories:
-- **Optimization_For_Machine_Learning.ipynb:** This notebook contains all details about the implementation of each algorithm, as well as a brief graph comparison
+- **Notebooks/Optimization_For_Machine_Learning.ipynb:** This notebook contains all details about the implementation of each algorithm, as well as a brief graph comparison
 between the speed of each algorithm.
 
 
